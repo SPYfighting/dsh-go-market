@@ -1,0 +1,15 @@
+{
+  "name": "dsh-budget",
+  "version": "0.4.28",
+  "title": {
+    "zh": "用量与费用预算",
+    "en": "Usage and cost budgets"
+  },
+  "summary": {
+    "zh": "费用治理：按模型、会话与日期统计 token 与费用，预算上限带阈值告警与超限策略，并估算碳足迹。",
+    "en": "Cost governance: token/cost metering per model, session and day, budget caps with threshold alerts and over-limit policies, plus carbon-footprint estimates."
+  },
+  "category": "productivity",
+  "screenshots": [],
+  "homepage": "https://github.com/PerryLink/dsh-budget"
+}

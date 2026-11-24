@@ -1,0 +1,15 @@
+{
+  "name": "dsh-go-money-meter",
+  "version": "0.1.0",
+  "title": {
+    "zh": "余额 · 单价",
+    "en": "Balance & price"
+  },
+  "summary": {
+    "zh": "输入框上方看 DeepSeek 余额、当前模型单价（峰/谷）和今日/本月估算花费，不做 token 统计",
+    "en": "DeepSeek balance, current peak/off-peak token prices and estimated today/month spend — money only, no token statistics"
+  },
+  "category": "tools",
+  "screenshots": [],
+  "homepage": "https://github.com/FL1213/dsh-go-money-meter"
+}

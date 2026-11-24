@@ -1,0 +1,15 @@
+{
+  "name": "dsh-xiaoyu-go",
+  "version": "1.0.1",
+  "title": {
+    "zh": "小鱼",
+    "en": "Xiaoyu"
+  },
+  "summary": {
+    "zh": "按会话开启小鱼，依据实际模型 ID 应用已授权的云端系统提示词。",
+    "en": "Enable Xiaoyu per conversation to apply authorized cloud system prompts matching the current model."
+  },
+  "category": "tools",
+  "screenshots": [],
+  "homepage": "https://github.com/MHTG001/dsh-xiaoyu-go"
+}

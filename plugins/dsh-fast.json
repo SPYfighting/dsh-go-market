@@ -1,0 +1,15 @@
+{
+  "name": "dsh-fast",
+  "version": "0.2.30",
+  "title": {
+    "zh": "性能诊断",
+    "en": "Performance diagnostics"
+  },
+  "summary": {
+    "zh": "只读性能诊断：会话加载/恢复耗时、spill 命中、压缩次数、上下文注入量与 LLM 缓存命中率，通过 /fast 命令查看。",
+    "en": "Read-only diagnostics for DSH sessions: load/restore timing, spill hits, compaction, context-injection volume and LLM cache hit rate, via the /fast command."
+  },
+  "category": "tools",
+  "screenshots": [],
+  "homepage": "https://github.com/PerryLink/dsh-fast"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dsh-go-model-organizer",
+  "version": "0.1.1",
+  "title": {
+    "zh": "模型分类",
+    "en": "Model organizer"
+  },
+  "summary": {
+    "zh": "按渠道分类列出模型，支持通断测试与批量删除，报错一键翻译成中文。",
+    "en": "List models grouped by channel, test reachability, bulk delete, and translate errors into Chinese."
+  },
+  "category": "tools",
+  "screenshots": [],
+  "homepage": "https://github.com/FXT8-8-8/dsh-go-model-organizer"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dsh-permission-rules",
+  "version": "0.8.5",
+  "title": {
+    "zh": "权限规则",
+    "en": "Permission rules"
+  },
+  "summary": {
+    "zh": "Claude Code 风格的声明式权限规则：按序 allow/deny/ask 的 YAML 规则，匹配工具名、参数与工作区路径，带会话日志审计与热重载。",
+    "en": "Claude Code-style declarative permission rules: ordered allow/deny/ask YAML rules matching tool names, arguments and workspace paths, with session-log audit and hot reload."
+  },
+  "category": "tools",
+  "screenshots": [],
+  "homepage": "https://github.com/PerryLink/dsh-permission-rules"
+}

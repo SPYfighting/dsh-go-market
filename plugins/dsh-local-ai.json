@@ -1,0 +1,15 @@
+{
+  "name": "dsh-local-ai",
+  "version": "0.2.30",
+  "title": {
+    "zh": "本地模型（Ollama）",
+    "en": "Local models (Ollama)"
+  },
+  "summary": {
+    "zh": "Ollama 接入：发现、拉取、删除与查看本地模型，按任务类型或关键词路由请求，并自动回退到云端。",
+    "en": "Ollama integration: discover, pull, remove and inspect local models, route requests by task type or keyword, and fall back to the cloud automatically."
+  },
+  "category": "tools",
+  "screenshots": [],
+  "homepage": "https://github.com/PerryLink/dsh-local-ai"
+}

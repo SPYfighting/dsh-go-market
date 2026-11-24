@@ -1,0 +1,15 @@
+{
+  "name": "dsh-claude-move",
+  "version": "0.4.22",
+  "title": {
+    "zh": "会话迁移向导",
+    "en": "Session migration wizard"
+  },
+  "summary": {
+    "zh": "面向 Claude Code、Codex、OpenCode 与 Hermes 的迁移向导：把会话、记忆、技能、指令与斜杠命令迁入 DSH，/move 向导可续聊。",
+    "en": "Migration wizard for Claude Code, Codex, OpenCode and Hermes: move sessions, memories, skills, instructions and slash commands into DSH with a resumable /move wizard."
+  },
+  "category": "tools",
+  "screenshots": [],
+  "homepage": "https://github.com/PerryLink/dsh-claude-move"
+}

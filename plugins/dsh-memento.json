@@ -1,0 +1,15 @@
+{
+  "name": "dsh-memento",
+  "version": "0.5.33",
+  "title": {
+    "zh": "跨会话记忆",
+    "en": "Cross-session memory"
+  },
+  "summary": {
+    "zh": "有界、带审批门的跨会话记忆：ctx.memory 服务、零依赖 SQLite 存储、memory 工具与冻结快照注入。",
+    "en": "Bounded, approval-gated cross-session memory: a ctx.memory seam with a zero-dependency SQLite provider, a memory tool, and frozen snapshot injection."
+  },
+  "category": "tools",
+  "screenshots": [],
+  "homepage": "https://github.com/PerryLink/dsh-memento"
+}
