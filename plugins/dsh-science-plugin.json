@@ -6,8 +6,8 @@
     "en": "DSH Science Workbench"
   },
   "summary": {
-    "zh": "在同一项目中管理研究问题、目标结果与支持证据，并将科研任务分派给专业子代理。",
-    "en": "Organizes research questions, target results, supporting evidence and specialist-agent tasks in a shared project."
+    "zh": "在 DSH Web 的项目面板管理研究问题、目标结果和支持证据，并分派科研任务。界面仅支持 Web。",
+    "en": "Organizes research questions, target results, evidence and specialist-agent tasks in a project dashboard available only in DSH Web."
   },
   "category": "productivity",
   "screenshots": [],
